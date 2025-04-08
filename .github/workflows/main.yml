@@ -1,0 +1,27 @@
+name: Atualizar Barra de Progresso
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # toda segunda-feira
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Rodar script de atualização
+        run: |
+          pip install --upgrade pip
+          python scripts/update_progress.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Atualizando progresso acadêmico 🤖" || echo "Sem mudanças"
+          git push
