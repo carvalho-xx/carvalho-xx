@@ -1,28 +1,35 @@
-<h1 align="center">Bem-vindo ao meu universo 🌌</h1>
+# Meu Perfil no GitHub
 
-<p align="center">
-  <em>“There is no dark side of the moon really. Matter of fact, it's all dark.”</em><br>
-  — Pink Floyd
-</p>
+🎓 Estudante de **Engenharia de Software na UEPA**  <br>
+💻 Explorando C, C++, C# — e tudo o mais que houver "C" no nome  <br>
+☕ Transformando café em conhecimento
 
 ---
 
-🎓 Estudante de **Engenharia de Software na UEPA**  
-🌱 Em busca de dominar os C’s (C, C++, C#...)  
-💡 Acredito que o melhor jeito de aprender é criando
+### 🎯 Progresso na faculdade
+
+<!-- PROGRESS_START -->
+📚 Engenharia de Software  
+🟩⬜⬜⬜⬜⬜⬜⬜ (12.5%)  
+_Semestre atual: 1 / 8_
+<!-- PROGRESS_END -->
 
 ---
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carvalho-xx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
 
 ---
 
-### 🎯 Progresso na Jornada Acadêmica
+### 📎 Contato
 
-```text
-📚 Engenharia de Software [1/8]
-[▓░░░░░░░░░░] 12.5%
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcarvalho42)
+
+---
+
+<p align="center">
+  ⌛ Work in progress · Mantendo a mente aberta e o terminal ligado ⚡
+</p>
