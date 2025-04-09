@@ -31,5 +31,5 @@ _Semestre atual: 1 / 8_
 ---
 
 <p align="center">
-  ⌛ Work in progress · Mantendo a mente aberta e o terminal ligado ⚡
+  ⌛ Work in progress ⚡
 </p>
