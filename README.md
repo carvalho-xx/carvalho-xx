@@ -1,30 +1,41 @@
-# Olá Mundo
+# Hello World
 
-🎓 Estudante de **Engenharia de Software na UEPA**  <br>
-💻 Explorando C, C++, C# — e tudo o mais que houver "C" no nome  <br>
-☕ Transformando café em conhecimento
+🎓 Software Engineering student at **UEPA**  <br>
+💻 Exploring C, C++, C# — and anything else with a "C" in the name  <br>
+☕ Turning coffee into knowledge
 
 ---
 
-### 🎯 Progresso na faculdade
+### 🎯 College Progress
 
 <!-- PROGRESS_START -->
-📚 Engenharia de Software  
+📚 Software Engineering  
 🟩⬜⬜⬜⬜⬜⬜⬜ (12.5%)  
-_Semestre atual: 1 / 8_
+_Current semester: 1 / 8_
 <!-- PROGRESS_END -->
 
 ---
 
-### 📊 Estatísticas
+### 🛠️ Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carvalho-xx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+---
+
+### 📊 Stats
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalho-xx&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalho-xx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
 
-### 📎 Contato
+![Snake animation](https://github.com/carvalho-xx/carvalho-xx/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📎 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcarvalho42)
 
