@@ -1,22 +1,10 @@
 # Hello World
 
 🎓 Software Engineering student at **UEPA**  <br>
-💻 Exploring C, C++, C# — and anything else with a "C" in the name  <br>
-☕ Turning coffee into knowledge
 
 ---
 
 ![snake gif](https://github.com/carvalho-xx/carvalho-xx/blob/output/github-snake-dark.svg)
-
----
-
-### 🎯 College Progress
-
-<!-- PROGRESS_START -->
-📚 Software Engineering  
-🟩⬜⬜⬜⬜⬜⬜⬜ (12.5%)  
-_Current semester: 1 / 8_
-<!-- PROGRESS_END -->
 
 ---
 
